@@ -1,0 +1,26 @@
+{
+    "blue": [  
+        "0081b8", 
+        "22bbfd", 
+        "75d4fd", 
+        "daf3fe" 
+    ],
+    "pink": [ 
+        "e70052", 
+        "fe1869", 
+        "fe6fa1", 
+        "ffd9e6" 
+    ],
+    "yellow": [ 
+        "ff8700", 
+        "ff9218", 
+        "ffbb6f", 
+        "ffedd9" 
+    ],
+    "green": [ 
+        "77ec00", 
+        "8cff18", 
+        "b7ff6f", 
+        "ecffd9" 
+    ]
+}

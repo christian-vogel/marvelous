@@ -1,0 +1,26 @@
+{
+    "name": "marvelous",
+    "displayName": "Marvelous",
+    "description": "Dark Color Theme",
+    "version": "0.1.2",
+    "publisher": "smokeyjoe",
+    "license": "CC0-1.0",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "keywords": [
+        "marvelous", "dark", "awesome", "theme", "javascript"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Marvelous Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Marvelous Theme-color-theme.json"
+            }
+        ]
+    }
+}
