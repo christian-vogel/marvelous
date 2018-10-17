@@ -2,6 +2,35 @@
 
 This Dark Theme is made from a JS-Developer perspective
 
+![Screenshot](/images/Bildschirmaufnahme&#32;2018-10-17&#32;um&#32;15.11.29.mov.gif)
+
+- [Marvelous Color Theme for Visual Studio Code](#marvelous-color-theme-for-visual-studio-code)
+    - [Installation](#installation)
+        - [Clone Repository](#clone-repository)
+    - [Recommended Extensions](#recommended-extensions)
+    - [Additional Extensions](#additional-extensions)
+    - [License](#license)
+
+## Installation
+
+### Clone Repository
+
+Change to your Visual Studio Code extensions directory:
+
+```bash
+    # Windows
+    C:\ cd %USERPROFILE%\.vscode\extensions
+
+    # Linux & macOS
+    $ cd ~/.vscode/extensions/
+```
+
+Clone repository:
+
+```bash
+$ git clone https://github.com/christian-vogel/marvelous.git
+```
+
 ## Recommended Extensions
 
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
@@ -32,3 +61,5 @@ This Dark Theme is made from a JS-Developer perspective
 ## License
 
 This work is licensed under the [Creative Commons CC0 1.0 Universal License](http://creativecommons.org/publicdomain/zero/1.0/legalcode).
+
+[![Creative Commons](https://img.shields.io/badge/license-CC0%201.0-orange.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
