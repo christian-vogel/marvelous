@@ -2,7 +2,7 @@
     "name": "marvelous",
     "displayName": "Marvelous",
     "description": "Dark Color Theme",
-    "version": "0.1.4",
+    "version": "1.0.0",
     "publisher": "smokeyjoe",
     "license": "CC0-1.0",
     "engines": {
@@ -22,5 +22,14 @@
                 "path": "./themes/Marvelous Theme-color-theme.json"
             }
         ]
-    }
+    },
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/christian-vogel/marvelous.git"
+	},
+	"homepage": "https://github.com/christian-vogel/marvelous",
+	"bugs": {
+		"url": "https://github.com/christian-vogel/marvelous/issues"
+	},
+	"icon": "images/small.jpg"
 }
